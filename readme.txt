@@ -8,3 +8,6 @@ nice
 
 
 tmd
+
+
+Creating a new branch is quick.
